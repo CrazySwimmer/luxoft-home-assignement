@@ -1,0 +1,11 @@
+﻿customer_id,name,surname,country_id,date_of_birth
+1,Enzo,Ferrari,IT,1980-01-01
+2,John,Doe,US,1990-01-01
+3,George,Black,UK,1970-01-01
+4,Alvaro,Sanchez,MX,1964-01-01
+5,Louis,Dupont,FR,1980-01-01
+6,John,White,US,1977-01-01
+7,Thomas,Schneider,CH,1978-01-01
+8,Ramon,Blanco,ES,1983-01-01
+9,Emma,Laurent,FR,1985-01-01
+10,Oliver,Lahm,DE,1950-01-01
